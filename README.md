@@ -7,9 +7,6 @@
 <a href="https://www.twitter.com/atharvakadlag/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" width="32px" height="32px"></a>
 <a href="mailto: atharvakadlag@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Mail" width="32px" height="32px"></a>
 
-- :telescope: I’m currently studying for a **CCNA certificate**.
-- :seedling: I’m also learning **Penetration Testing, Flutter**.
-- :handshaking: If you have any projects you would like to collaborate, reach out to me.
 - :speech_balloon: Mail me to contact me
   
 ## My overview:
