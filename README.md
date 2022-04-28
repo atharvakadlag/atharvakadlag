@@ -1,6 +1,6 @@
 <h2 align="center">Welcome to my Profile</h2>
 
-### Hello 👋 I am [Atharva Kadlag](https://github.com/atharvakadlag)
+### Hello 👋 I am [Atharva Kadlag](https://atharvakadlag.github.io)
 
 
 <a href="https://www.linkedin.com/in/atharvakadlag/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="32px" height="32px"></a>
