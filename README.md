@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **excalisave**
 
-- 📝 I'm trying to write articles on [atharvakadlag.github.io](atharvakadlag.github.io) or my [LinkedIn](https://linkedin.com/in/atharvakadlag)
+- 📝 I'm trying to write articles on [atharvakadlag.github.io](https://atharvakadlag.github.io) or my [LinkedIn](https://linkedin.com/in/atharvakadlag)
 
 - 💬 Ask me about **Python, Flask, C#, Windows Application Development**
 
